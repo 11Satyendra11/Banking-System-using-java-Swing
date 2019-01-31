@@ -379,4 +379,4 @@ We are looking forward to add following features to this software:
 ### l Customer can video chat with accountant or the manager.
 
 
-
+LICENSED UNDER THE [MIT LICENSE](LICENSE)

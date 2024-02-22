@@ -28,13 +28,6 @@
 ![Slide1](https://github.com/11Satyendra11/Banking-System-using-java-Swing/blob/master/images/17.png)
 
 
-
-
-
-
-
-                                      
-
 ```
 l ACKNOWLEDGEMENT
 l ABSTRACT
